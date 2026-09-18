@@ -1,5 +1,11 @@
-# THE MENTALIST — ELEIÇÃO
+<p align="center">
+  <img src="./assets/patrick_mentalista.png" alt="CBI Case 001 — The Mentalist" width="100%">
+</p>
 
+<p align="center">
+  <strong>CBI CASE 001</strong><br>
+  <em>Four candidates. One CBI. One final vote.</em>
+</p>
 <h3>Qual personagem de The Mentalist merece o seu voto?</h3>
 Por favor, escolha o seu.
 Este projeto transforma um exercício de **Laboratório de Programação** em uma pequena eleição inspirada em *The Mentalist*.
