@@ -109,9 +109,10 @@ Projeto desenvolvido para a disciplina de **Laboratório de Programação**.
 ---
 
 ## Fim da investigação
-Obrigado por participar da eleição.
-A decisão agora é sua.
 
 <p align="center">
-  <img src="assets/banner-mentalista.jpg" alt="The Mentalist" width="100%">
+  <img src="assets/banner-mentalista.jpg.png" alt="The Mentalist" width="100%">
 </p>
+
+<h3>Obrigado por participar da eleição.
+A decisão agora é sua.</h3>
