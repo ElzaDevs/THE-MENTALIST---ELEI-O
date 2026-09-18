@@ -1,6 +1,6 @@
 # THE MENTALIST — ELEIÇÃO
 
-Qual personagem de The Mentalist merece o seu voto?
+<h3>Qual personagem de The Mentalist merece o seu voto?</h3>
 Por favor, escolha o seu.
 Este projeto transforma um exercício de **Laboratório de Programação** em uma pequena eleição inspirada em *The Mentalist*.
 A proposta é simples: você escolhe um dos quatro personagens, o programa registra os votos e, no final, apresenta os resultados da votação.
